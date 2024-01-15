@@ -1,0 +1,11 @@
+.status-cell.pending {
+    color: rgba(0, 38, 255, 0.968);
+}
+
+.status-cell.approve {
+    color: green;
+}
+
+.status-cell.reject {
+    color: red;
+}

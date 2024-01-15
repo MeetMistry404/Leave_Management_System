@@ -1,0 +1,19 @@
+.admin {
+  background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
+
+.table-col {
+  background-image: linear-gradient(to top, #dad4ec 0%, #dad4ec 1%, #f3e7e9 100%);
+}
+
+.status-cell.pending {
+  color: rgba(0, 38, 255, 0.968);
+}
+
+.status-cell.approve {
+  color: green;
+}
+
+.status-cell.reject {
+  color: red;
+}
